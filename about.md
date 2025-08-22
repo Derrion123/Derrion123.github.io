@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About Mm
+layout: title 
+default: About Me
 ---
 # About Me
 Hello! I am [Derrion].
