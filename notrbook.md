@@ -62,7 +62,7 @@
 |  Wrap  | Automatically puts widgets onto a new line when there's no space. | `Wrap(children: [...])` |  |  |
 |  @override  | This marks a method as one that’s replacing a method in a parent class. | `@override` |  |  |
 |  Widget build  | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` |  |  |
-|  build()  | Required in every widget class to describe what to show. | `build` |  |  |
+|  build  | Required in every widget class to describe what to show. | `build` |  |  |
 |  BuildContext  | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |  |  |
 |  super.key  | A keyword used to pass a value to the parent widget. | `super.key` |  |  |
 |  const  | A keyword that means the value won't change and is set once. | `const` |  |  |
